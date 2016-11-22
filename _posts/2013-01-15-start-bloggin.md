@@ -5,6 +5,7 @@ category: blog
 tags: [tags for the post, is here]  
 summary: Here is a summary of the post
 image: /images/blog/blogging-again.png
+published: false
 ---
 
 This is a template with masonry to get the theme
