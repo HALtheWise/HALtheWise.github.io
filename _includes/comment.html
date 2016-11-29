@@ -1,4 +1,5 @@
  {% if page.comments != 'off' %}
+ {% if site.disqus_shortname %}
     <!-- DISQUS COMMENT CODE -->
     <br><br>
     <div id="disqus_thread"></div>
@@ -14,4 +15,5 @@
     })();
     </script>
     <!-- DISQUS COMMENT CODE -->
+{% endif %}
 {% endif %}
