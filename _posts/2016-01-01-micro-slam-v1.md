@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Template Post
-summary: Here is a summary of the post
+title: "μSLAM v1: POE Follower"
+summary: "Lab 3 for ENGR2110: Principles of Engineering"
 
-tags: [tags for the post, is here]
-image: /images/blog/blogging-again.png
+tags: Software Robotics
+#image: /images/blog/blogging-again.png
 category: blog
 
 published: true
@@ -18,7 +18,15 @@ comments: 'off'
 * TOC
 {:toc}
 
+## Concept
 
+## Results
+
+## Why it's cool
+
+## Skills and Lessons
+
+## Where next?
 
 
 <!-- [Link to Google](https://www.google.com) -->
