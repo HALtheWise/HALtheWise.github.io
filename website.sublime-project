@@ -2,6 +2,12 @@
 	"folders":
 	[
 		{
+			"path": "_posts"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
 			"path": "."
 		}
 	]
