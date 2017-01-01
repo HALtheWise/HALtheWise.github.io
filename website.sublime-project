@@ -2,10 +2,10 @@
 	"folders":
 	[
 		{
-			"path": "_posts"
+			"path": "projects"
 		},
 		{
-			"path": "_layouts"
+			"path": "_posts"
 		},
 		{
 			"path": "."
