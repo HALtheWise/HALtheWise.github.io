@@ -7,6 +7,9 @@ subtitle:   Some Short Description of the Script
 category:  	sample
 visualworkflow: true
 
+project:	internal
+permalink:	/internal/matlabembed
+
 published: 	false
 ---
 {% if page.visualworkflow == true %}

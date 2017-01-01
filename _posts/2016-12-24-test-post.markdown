@@ -6,7 +6,8 @@ tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  	sample
 
-project:	test
+project:	internal
+permalink:	/internal/testpost
 
 published: 	true
 ---

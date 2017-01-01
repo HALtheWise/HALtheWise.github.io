@@ -6,6 +6,9 @@ tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  	sample
 
+project:	internal
+permalink:	/internal/notebookembed
+
 notebookfilename: intro
 visualworkflow: true
 

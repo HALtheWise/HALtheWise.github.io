@@ -6,6 +6,9 @@ tags:           presentation template
 subtitle:    	Some Short Description of Presentation
 category:		sample
 
+project:		internal
+permalink:		/internal/presentationembed
+
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
@@ -14,6 +17,8 @@ vertical:		</section><section markdown="1">
 
 published: false
 ---
+
+
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 

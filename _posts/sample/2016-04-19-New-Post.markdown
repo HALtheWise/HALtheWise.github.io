@@ -6,6 +6,9 @@ tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  	sample
 
+project:	internal
+permalink:	/internal/formattingsample
+
 published: 	false
 ---
 <!-- Start Writing Below in Markdown -->
