@@ -21,6 +21,7 @@ layout: default
 
 
 
+{% if page.showinteresting %}
 <!-- Also Interesting -->
 
 {% assign relevantpostcount = 0 %}
@@ -86,6 +87,8 @@ layout: default
 
 		</div>
 		</div>
+
+{% endif %}
 
 <!-- Post Content -->
 {% include imagezoom.html %}
