@@ -10,8 +10,6 @@ published: 	true
 source-id: 1lhq-xfDRKBfNwgszuuDxeonXEYKrjm86c1g3Tqf2VXU
 published: true
 ---
-Structure of portfolio site
-
 # Users
 
 * Present me: putting stuff in
