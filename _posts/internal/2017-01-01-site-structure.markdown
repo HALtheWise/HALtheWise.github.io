@@ -8,7 +8,7 @@ subtitle:  	Basic structure and planning for this site
 project:	internal
 permalink:	/internal/structure
 
-published: 	true
+published: 	false
 ---
 
 
