@@ -4,7 +4,6 @@ title:      Phase 1 site design
 author:     Eric Miller
 tags: 		post template
 subtitle:  	Basic structure and planning for this site
-category:  	sample
 
 project:	internal
 permalink:	/internal/structure
