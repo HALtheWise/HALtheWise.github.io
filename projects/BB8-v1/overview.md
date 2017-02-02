@@ -2,7 +2,7 @@
 layout: 	project
 title: 		"BB8"
 description: "Control algorithms (and hardware) for a self-balancing BB8 robot"
-header-img: "img/home-bg.jpg"
+header-img: "img/bb8-v1/banner-small.jpg"
 
 permalink: 	/bb8-v1/
 

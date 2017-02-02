@@ -68,7 +68,7 @@ published: true
 
     * Video
 
-    * Text (slight <em> everywhere)
+    * Text (slight *emphasis* everywhere)
 
         * Prompt
 
