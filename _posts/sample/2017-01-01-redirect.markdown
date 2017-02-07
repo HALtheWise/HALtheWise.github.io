@@ -9,5 +9,5 @@ subtitle:  	Basic structure and planning for this site
 project:	internal
 permalink:	/internal/redirect
 
-published: 	true
+published: 	false
 ---
