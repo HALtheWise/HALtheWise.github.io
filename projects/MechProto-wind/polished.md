@@ -2,7 +2,7 @@
 layout: 	polished
 title: 		"MechProto Wind Sculpture"
 description: "A wind-powered decoration for the Olin Campus made of sheet metal"
-//header-img: "img/bb8-v1/banner-small.jpg"
+header-img: "img/mechproto-wind/banner-small.jpg"
 
 permalink: 	/mechproto-wind/polished
 

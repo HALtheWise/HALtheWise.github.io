@@ -19,7 +19,7 @@
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
                 <!-- Projects -->
-				{% for page in site.pages %}{% if page.layout == "project" %}{% if page.title %}
+				{% for page in site.pages %}{% if page.layout == "polished" %}{% if page.title %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
