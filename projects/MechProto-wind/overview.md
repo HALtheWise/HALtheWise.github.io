@@ -14,5 +14,6 @@ status: 	"Success" # Success / Failure / Ongoing / Future
 published:	true
 ---
 
-In MechProto (Fall 2016), we were tasked with designing and building a wind sculpture to represent Olin's Electrical Engineering program to campus visitors. 
+
+
 
