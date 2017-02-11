@@ -12,11 +12,11 @@ This worked on Ubuntu 16.04 with ROS kinetic
 
 # Installing fish
 
-sudo apt-add-repository ppa:fish-shell/release-2
+	sudo apt-add-repository ppa:fish-shell/release-2
 
-sudo apt-get update
+	sudo apt-get update
 
-sudo apt-get install fish
+	sudo apt-get install fish
 
 # Making ros work inside fish
 
@@ -36,7 +36,7 @@ Paste the following two lines into your fish config file:
 
 	set ROS_WORKSPACE ~/catkin_ws
 
-. ~/catkin_ws/devel/rosfish
+	. ~/catkin_ws/devel/rosfish
 
 # Setting fish as your default Terminator shell
 
