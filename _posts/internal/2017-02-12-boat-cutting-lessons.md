@@ -52,7 +52,7 @@ On Saturday, February 11, I was involved with an effort by the QEA NINJA team to
 
     5. The preparation and printing can be done asynchronously, even when you don't know what machine you are preparing for
 
-        1. Make sure you set line thickness to 0.001", 0.002” is too thinck for the Helix
+        1. Make sure you set line thickness to 0.001", 0.002” is too thick for the Helix
 
 3. Asking for source submission was good
 
@@ -76,7 +76,7 @@ On Saturday, February 11, I was involved with an effort by the QEA NINJA team to
 
 4. Make sure we get an email if someone changes something from the time we download things until when we're done cutting. It didn’t bite us this time, but could in the future.
 
-5. Have an orthoganal mechanism to track how much is done and what needs to be done. Something as simple as counting finished boats would have prevented the need to do late night cutting.
+5. Have an orthogonal mechanism to track how much is done and what needs to be done. Something as simple as counting finished boats would have prevented the need to do late night cutting.
 
 6. Set up your laptop somewhere you can see and actively monitor the lasers.
 
