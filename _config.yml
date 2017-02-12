@@ -8,7 +8,7 @@ url: "https://HALtheWise.github.io"
 
 # Secondary Parameters
 baseurl: "/halthewise"
-header-img: img/home-bg.jpg
+header-img: img/header-traces-small.png
 headercolor: "#FFFFFF"
 logo: /halthewise/img/favicon.png
 
@@ -36,4 +36,4 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/header-traces-small.png"
