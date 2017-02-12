@@ -36,4 +36,4 @@ Because of time and budget limitations, Eye-robot never reached a high enough re
 		src="https://www.youtube.com/embed/ytQ_NSvJf2A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-For more information, take a look at our [final website](http://poe.olin.edu/2016/eye-robot/) and the [GitHub repo](https://github.com/HALtheWise/eye-robot) for the project
+For more information, take a look at our [final website](http://poe.olin.edu/2016/eye-robot/) and the [GitHub repo](https://github.com/HALtheWise/eye-robot) for the project.
