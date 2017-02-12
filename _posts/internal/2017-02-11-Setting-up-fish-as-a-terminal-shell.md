@@ -1,8 +1,8 @@
 ---
 title: Setting up fish as a terminal shell
-layout: post
+layout: gdoc
+author: superkideric
 permalink: /internal/fish-setup/
-project: internal
 source-id: 1L7ACxiYN9MkjqLQLTXi-tZjoIodmHrTWZVBq9AiTCqI
 published: true
 ---
