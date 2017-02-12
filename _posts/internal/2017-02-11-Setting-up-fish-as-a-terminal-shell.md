@@ -6,7 +6,7 @@ permalink: /internal/fish-setup/
 source-id: 1L7ACxiYN9MkjqLQLTXi-tZjoIodmHrTWZVBq9AiTCqI
 published: true
 ---
-Fish is "Finally, a command line shell for the 90s". Here is how I set it up as my default terminal.
+Fish is ["Finally, a command line shell for the 90s"](https://fishshell.com/). Here is how I set it up as my default terminal.
 
 This worked on Ubuntu 16.04 with ROS kinetic
 
