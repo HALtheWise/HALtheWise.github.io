@@ -72,13 +72,15 @@ On Saturday, February 11, I was involved with an effort by the QEA NINJA team to
 
 2. In the tracking sheet, mark files that may require additional preparation so that work can be done whenever there is free time.
 
-3. Make sure we get an email if someone changes something from the time we download things until when we're done cutting. It didn’t bite us this time, but could in the future.
+3. Spend the time to set up data validation on the status column of the tracking sheet
 
-4. Have an orthoganal mechanism to track how much is done and what needs to be done. Something as simple as counting finished boats would have prevented the need to do late night cutting.
+4. Make sure we get an email if someone changes something from the time we download things until when we're done cutting. It didn’t bite us this time, but could in the future.
 
-5. Set up your laptop somewhere you can see and actively monitor the lasers.
+5. Have an orthoganal mechanism to track how much is done and what needs to be done. Something as simple as counting finished boats would have prevented the need to do late night cutting.
 
-6. Use all three machines, one was broken, which wasn't ideal.
+6. Set up your laptop somewhere you can see and actively monitor the lasers.
 
-7. Have a shared "staging" folder (probably in Sandbox) for all of the preprocessed PDFs. That way multiple people can print without issue.
+7. Use all three machines, one was broken, which wasn't ideal.
+
+8. Have a shared "staging" folder (probably in Sandbox) for all of the preprocessed PDFs. That way multiple people can print without issue.
 
