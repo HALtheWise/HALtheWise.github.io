@@ -17,7 +17,7 @@ description: Search by keyword or tag.
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/js/search.js"></script>
 
-<ul class="tag-box inline"><div class="notepad-index-post-tags" style="">
+<ul class="tag-box inline"><div class="notepad-index-post-tags">
 {% assign tags_list = site.tags %}  
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
@@ -31,6 +31,7 @@ description: Search by keyword or tag.
 {% assign tags_list = nil %}
 </div></ul>
 
+<!-- Display a list of posts, sorted by tag
 {% for tag in site.tags %} 
   <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
   <ul class="post-list">
@@ -46,3 +47,31 @@ description: Search by keyword or tag.
     {% assign group = nil %}
   </ul>
 {% endfor %}
+-->
+
+<h2 id="pages">Projects</h2>
+
+<ul class="post-list">
+{% for page in site.pages %}
+  {% if page.title != null %}
+  {% if page.layout == "project" %}
+  <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+      <b>{{ page.title }}</b>
+      {% if page.description != null %} - {{page.description}}{% endif %}</a></li>
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+<h2 id="posts">Posts</h2>
+
+<ul class="post-list">
+{% for post in site.posts %}
+  {% if post.title != null %}
+  {% if group == null or group == post.group %}
+  <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} - <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
