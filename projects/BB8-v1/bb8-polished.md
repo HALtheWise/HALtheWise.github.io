@@ -31,3 +31,5 @@ We were invited to present our process and results at the Olin Expo VIP breakfas
 	<iframe width="650" height="365" 
 		src="https://www.youtube.com/embed/0EyjS594ttE" frameborder="0" allowfullscreen></iframe>
 </div>
+
+For more information, take a look at our [paper](https://drive.google.com/file/d/0B9JRugrVx0YyUnBvb0t3VlFuN0U/view) and [final website](https://sites.google.com/view/qea-final-bb8/home)
