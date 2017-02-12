@@ -11,9 +11,8 @@ image:		"img/home-bg.jpg"
 fields: 	"Software Hacking"
 status: 	"Success" # Success / Failure / Ongoing / Future
 
-published:	false
+published:	true
 ---
 
-In QEA 1.2 (Fall 2016), we were tasked with designing and implementing a controlled system of our choice. 
-BB8 felt like a fun challenge, and we ultimately succeeded.
+At HackHolyoke 2016, Kim Winter, Kevin Zhang, Max Wei, and I completed an integrated hardware and software hack, winning the Hackathon.
 
