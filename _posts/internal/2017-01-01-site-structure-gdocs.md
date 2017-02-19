@@ -1,9 +1,9 @@
 ---
-title: Phase 1 site design?
+title: Personal site v3 design
 layout: post
 author: Eric Miller
 permalink: /internal/structure
-project:internal
+project: internal
 source-id: 1lhq-xfDRKBfNwgszuuDxeonXEYKrjm86c1g3Tqf2VXU
 published: true
 ---
