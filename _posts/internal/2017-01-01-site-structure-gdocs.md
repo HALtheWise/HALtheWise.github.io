@@ -1,6 +1,6 @@
 ---
 title: Personal site v3 design
-layout: post
+layout: gdoc
 author: Eric Miller
 permalink: /internal/structure
 project: internal
