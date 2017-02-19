@@ -3,6 +3,7 @@ title: Phase 1 site design?
 layout: post
 author: Eric Miller
 permalink: /internal/structure
+project:internal
 source-id: 1lhq-xfDRKBfNwgszuuDxeonXEYKrjm86c1g3Tqf2VXU
 published: true
 ---
