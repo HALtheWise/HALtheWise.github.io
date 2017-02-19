@@ -1,12 +1,8 @@
 ---
-title: Phase 1 site design
+title: Phase 1 site design?
 layout: post
 author: Eric Miller
 permalink: /internal/structure
-subtitle:  	Basic structure and planning for this site
-
-project:	internal
-published: 	true
 source-id: 1lhq-xfDRKBfNwgszuuDxeonXEYKrjm86c1g3Tqf2VXU
 published: true
 ---
@@ -68,7 +64,7 @@ published: true
 
     * Video
 
-    * Text (slight *emphasis* everywhere)
+    * Text (slight <em> everywhere)
 
         * Prompt
 
