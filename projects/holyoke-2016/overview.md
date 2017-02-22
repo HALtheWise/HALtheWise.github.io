@@ -1,7 +1,7 @@
 ---
 layout: 	project
-title: 		"BB8"
-description: "Control algorithms (and hardware) for a self-balancing BB8 robot"
+title: 		"HackHolyoke 2016"
+description: "A Leap-motion controlled virtual piano"
 header-img: "img/holyoke-2016/banner-small.jpg"
 
 permalink: 	/holyoke-2016/
