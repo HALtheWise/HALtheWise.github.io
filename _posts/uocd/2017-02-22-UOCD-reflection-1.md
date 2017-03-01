@@ -7,32 +7,6 @@ project: uocd
 source-id: 1AAGCuMBGSI51CXef6nc8mJRUUx4Cvl-KCFJMrhv0C-A
 published: true
 ---
-## Assignment
-
-This first phase of UOCD was all about cultivating your curiosity as you explored the ins-and-outs of your people group. So for this first post, **share a story of when you were surprised on a user visit**. In particular, your post should include:
-
-1. What happened,
-
-2. Why it happened (e.g., why were you surprised?),
-
-3. Why future UOCD students should care about this story (e.g., what can other designers learn from your experience?), and
-
-4. A cover image that represents your post visually (this could be from your visits, a sketch of your own, a photo/picture you found online with an appropriate reference, etc. If you need help getting started on this part, check out the examples or sites like www.unsplash.com (Links to an external site.) or www.thenounproject.com (Links to an external site.))
-
-The post should be between 1-2 written pages and the exact structure/format is up to you.
-
-### Stuff
-
-* Soda Can went deep.
-
-    * "What makes a good day"
-
-* Why do I care?
-
-    * Design depends on emotions and beliefs
-
-* Where did he go?
-
 # Drilling Deep
 
 ![image alt text]({{ site.url }}/img/gdocs/YWpcR2pbBr7CLgAePdesw_img_0.png)
@@ -41,51 +15,19 @@ Dear UOCD student,
 
 Before starting UOCD, I had spent most of my life trying to design and build things that are *functional* and *useful*. That means paying very close attention to circumstances in which a device will be used, and the jobs it will be used for. However, there is a big difference between job-oriented design and user-oriented design. While job-oriented design is exclusively about practicality and efficiency, user-oriented design also demands an eye toward emotional satisfaction and personal desire. That, in turn, requires understanding your potential users at a deeper, more emotional level. 
 
-In the first user visit I led, although I extracted reams of information about the tasks my user worked to accomplish, I largely failed to get access to that deeper, more emotional understanding. Going into my second visit, that became my primary goal: drilling deep into the psyche of my user, aiming to find the treasure of emotion buried beneath the mass of details cluttering the surface.
+In the first user visit I led, although I extracted reams of information about the tasks my user worked to accomplish, I largely failed to get access to that deeper, more emotional understanding. Going into my second visit, that became my primary goal: drilling deep into the subconscious of my user, aiming to find the treasure of emotion buried beneath the mass of details cluttering the surface.
 
 To be perfectly honest, this goal was a terrifying one. I *know* how to talk about technical details, but talking about emotions is *scary*. Would my user feel like I was prying too deeply into his life? Would he be apprehensive about my questions, and push back? I was expecting a psychological battle, and not one I was confident I could win.
 
-**Outline**
+To my delightment and shock, that wasn't what happened at all. As a simple followup question to his casual statement that "today was a good day", I asked “what makes a good or bad day?” and the floodgates opened. The amount of self-analysis he had on-tap was incredible, and as long as I kept nodding and smiling, he kept going. Several times later in the visit, he referred back to that one question, using it as an excuse to dive deeper into how some circumstance made him feel, how he viewed the world, and a host of other details I would never have been able to extract from him through coercion.
 
-* Context / intro
+After the visit, I realized that there are three major contributing factors to the surprising ease with which information flowed during the visit.
 
-    * Design for jobs vs. design for people
+1. Conversation naturally flows toward topics that both parties appear interested in. Your goal as a designer is to find things your users are passionate about, so simply demonstrating interest in the topics you seek is often sufficient. Your user will fill the empty space in the conversation with the information you want to hear.
 
-    * Fear about difficulty of getting to emotions
+2. Finding the right lead makes a big difference. Finding an excuse to ask your question in response to something your user says makes conversation flow much more smoothly, although it does take an incredible amount of mental alertness to effectively notice the opening you seek as it appears.
 
-    * First user visit drifted technical, missed important things.
+3. People are surprisingly willing to share things they don't normally get to talk about, and often have insights that they have been saving up, knowingly or not, for your conversation. Seek out opportunities to take advantage of that tendency, and you will learn much.
 
-    * Self-analysis: want to do more emotion
-
-* Fear
-
-* Supporting angle 1
-
-    * His story
-
-        * "Today has been a good day" ⇒ “What makes something a good day or a bad day?”
-
-        * He latched onto that question and ran
-
-        * Brought it up later
-
-* Supporting angle 2
-
-    * Conversation-leading meta-analysis
-
-        * Be crazy alert: look for a lead, and jump on
-
-        * Show interest in places you want them to go, they will fill the space
-
-* Conclusion
-
-    * Conversation tends toward apparent intersection of passions
-
-    * People are willing to share things they normally don't get interest in.
-
-    * You're looking for their passions anyway, so you just need to pretend to care
-
-    * Let it flow, you have time to wait for your lead. Once you find it, chase it in the direction you want to go.
-
-        * Not the only way, but my way.
+This isn't the only way to run an interview, but it is my way, and I wouldn’t give it up for anything.
 
