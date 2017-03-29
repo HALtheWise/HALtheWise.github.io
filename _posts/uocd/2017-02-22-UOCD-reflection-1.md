@@ -1,5 +1,5 @@
 ---
-title: UOCD: Drilling Deep
+title: "UOCD: Drilling Deep"
 layout: gdoc
 author: Eric Miller
 permalink: /uocd/reflection1/
