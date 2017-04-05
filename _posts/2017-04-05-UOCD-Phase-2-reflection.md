@@ -1,7 +1,7 @@
 ---
 title: "UOCD: Phase 2 reflection"
 layout: gdoc
-permalink: /uocd/phase-2-reflection/
+permalink: /uocd/reflection2/
 project: uocd
 source-id: 1juaxMJnioQC9fh7MIz4QjCdOzonUqxT5JRaUCCW6A9k
 published: true
