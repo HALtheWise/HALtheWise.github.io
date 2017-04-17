@@ -3,7 +3,7 @@ title: Setting up fish as a terminal shell
 layout: gdoc
 author: superkideric
 permalink: /internal/fish-setup/
-project: internal
+project: fish-setup
 source-id: 1L7ACxiYN9MkjqLQLTXi-tZjoIodmHrTWZVBq9AiTCqI
 published: true
 ---
@@ -31,7 +31,7 @@ The magical parts of this are taken from [this repo](https://github.com/aclough/
 
 Comment out the second-to-last line by adding a `#`.
 
-	nano config.fish
+	nano ~/.config/fish/config.fish
 
 Paste the following two lines into your fish config file:
 
