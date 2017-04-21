@@ -7,7 +7,7 @@ url: "https://HALtheWise.github.io"
 
 
 # Secondary Parameters
-baseurl: "/halthewise"
+baseurl: ""
 header-img: img/header-traces-small.png
 headercolor: "#FFFFFF"
 logo: /halthewise/img/favicon.png
