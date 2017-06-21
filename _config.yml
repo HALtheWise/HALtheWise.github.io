@@ -10,7 +10,7 @@ url: "https://HALtheWise.github.io"
 baseurl: ""
 header-img: img/header-traces-small.png
 headercolor: "#FFFFFF"
-logo: /halthewise/img/favicon.png
+logo: /img/favicon.png
 
 # Tertiary Parameters
 github_username:  HALtheWise
