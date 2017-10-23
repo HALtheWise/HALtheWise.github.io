@@ -25,9 +25,9 @@ The magical parts of this are taken from [this repo](https://github.com/aclough/
 
 	cd ~/catkin_ws/devel
 
-	wget https://raw.githubusercontent.com/aclough/dotfiles/master/rosfish
+	wget https://raw.githubusercontent.com/aclough/dotfiles/master/ros.fish
 
-	nano rosfish
+	nano ros.fish
 
 Comment out the second-to-last line by adding a `#`.
 
@@ -37,7 +37,7 @@ Paste the following two lines into your fish config file:
 
 	set ROS_WORKSPACE ~/catkin_ws
 
-	. ~/catkin_ws/devel/rosfish
+	. ~/catkin_ws/devel/ros.fish
 
 # Setting fish as your default Terminator shell
 
