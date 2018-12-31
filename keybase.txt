@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/halthewise
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://halthewise.github.io
+  * I am halthewise (https://keybase.io/halthewise) on keybase.
+  * I have a public key ASCTbIlXXl_z_ZA5sb24IikYSVts-yjKlleQZ8Zt_yRXEAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120936c89575e5ff3fd9039b1bdb8222918495b6cfb28ca96579067c66dff2457100a",
+      "host": "keybase.io",
+      "kid": "0120936c89575e5ff3fd9039b1bdb8222918495b6cfb28ca96579067c66dff2457100a",
+      "uid": "6d328fad910db112397289cf55524419",
+      "username": "halthewise"
+    },
+    "merkle_root": {
+      "ctime": 1525402120,
+      "hash": "94836b696688602821c4acdb80e8368c16ae37689000b14a90ade1a1a6f0ba0adbd1464a00c94005d761e5489ab8cd646929d035524b3baf8d1e871f0c4e0a43",
+      "hash_meta": "107f04c18bd1bc10bb4e4ff69b1e889bff1912dfa0d135c53afcdf4ebdb8b393",
+      "seqno": 2478689
+    },
+    "service": {
+      "entropy": "X0jiUm9nDP6cvNLGs9lgWORf",
+      "hostname": "halthewise.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1525402135,
+  "expire_in": 504576000,
+  "prev": "c97c15a62e157f59f0c357c3fdac4472b1a02db8abea562e6a2d662b6006f027",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgk2yJV15f8/2QObG9uCIpGElbbPsoypZXkGfGbf8kVxAKp3BheWxvYWTESpcCD8QgyXwVpi4Vf1nww1fD/axEcrGgLbir6lYuai1mK2AG8CfEIHIEiUJ62sWqf5atWW33xdZsZMex0er3c4Vo5Q/mBYVYAgHCo3NpZ8RAnOySLTow5N0u9XU6FuYonLNc2FS1fbx2birdtafO+v+9J3hM3CTdRRoZYaD5jnmnlG5SRuR7FEbqxljs+2B0BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGQhbLfP0YvPgwhHe4anZAtqqSsrEKBxGbzr0qQF7Pkto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/halthewise
+
+==================================================================
