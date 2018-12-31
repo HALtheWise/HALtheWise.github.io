@@ -9,14 +9,22 @@ category:  	sample
 project:	internal
 permalink:	/internal/testpost
 
+carousel:
+  - url: /img/gdocs/YWpcR2pbBr7CLgAePdesw_img_0.png
+    description: Drilling for oil
+  - url: ../img/2016-12-24-test-post.markdown/aee17336.png
+    description: Description 2
 published: 	true
 ---
 <!-- Start Writing Below in Markdown -->
-
 # Table of Contents
-
 * TOC
 {:toc}
+
+# Image Carousel
+
+Here it is
+{% include carousel.html images=page.carousel %} 
 
 # Basic Functionality
 

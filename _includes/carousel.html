@@ -1,0 +1,18 @@
+<!-- Image Carousel -->
+
+<div>
+	<div class="flexslider">
+		<ul class="slides">
+	  		{% for image in include.images %}
+	  		<li>
+	  			<div>
+					{{ image.image }}
+		    		<img src="{{ image.url }}">
+		    		<p class="flex-caption">{{image.description}}</p>
+		    	</div>
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
+</div>
+
